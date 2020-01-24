@@ -1,6 +1,6 @@
 class Dog
   # Define behavior for the objects
-# end
+end
 
 fido = Dog.new
 snoopy = Dog.new
